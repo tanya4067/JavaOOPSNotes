@@ -1,0 +1,5 @@
+//JDK - A developement kit to compile the program , convert the code into byte code
+//JVM - A machine which learns the code , compile the code with the help of JDK and JVM runs the code
+//      When you want to run the byte code , we have to to run the space
+//JRE - Java Runtime Environemnt - It is having all the inbuilt classes which are need to run the code
+//    JDK --> JRE ---> JVM
